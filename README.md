@@ -1,6 +1,10 @@
 # Arish Panjwani - React Native Developer
 
-👋 Welcome to my GitHub profile! I'm Arish Panjwani, a passionate Mobile Developer specializing in React Native, React, and related technologies. With a proven track record in cross-platform mobile app development and a strong knack for debugging, I thrive in agile team environments.
+👋 Welcome to my GitHub profile!
+
+![Alt Text](https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif)
+
+I'm Arish Panjwani, a passionate Mobile Developer specializing in React Native, React, and related technologies. With a proven track record in cross-platform mobile app development and a strong knack for debugging, I thrive in agile team environments.
 
 ## Education
 
