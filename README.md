@@ -1,56 +1,41 @@
-Mobile App Portfolio: 
-A collection of React Native projects showcasing my skills and expertise in mobile app development.
+# Arish Panjwani - React Native Developer
 
-Table of Contents
-Project 1: Files Upload Project
-Project 2: Login Test Project
+👋 Welcome to my GitHub profile! I'm Arish Panjwani, a passionate Mobile Developer specializing in React Native, React, and related technologies. With a proven track record in cross-platform mobile app development and a strong knack for debugging, I thrive in agile team environments.
 
-Project 1: Files Upload Project
+## Education
 
-Description: This is a simple React - Native Login and Files(Images and Pdf) upload and view implementation using Async Storage.
+- **Bachelor of Engineering in Computers**
+- Savitribai Phule Pune University  
 
-Key Technologies Used:
+## Skills
 
-React Native
-React Navigation
-React Redux
-Styled Components for styling
+- Mobile: React Native, Expo
+- Web: React, React Native Web
+- State Management: Redux, Redux Toolkit
+- Languages: JavaScript, TypeScript
+- Database: MongoDB, SQL Lite
+- Testing Frameworks: Detox, Cypress
+- Version Control: GitHub
+- Other Tools: Nx (MonoRepo)
 
-How to Run:
-Clone the repository: https://github.com/arish-panjwani/FilesUploadProject.git
-Navigate to the project directory: cd FilesUploadProject
+## Professional Experience
 
-Install dependencies: npm install
-Start the app: npx react-native run-android (for Android) or npx react-native run-ios (for iOS)
+### Easy Platform Services Pvt. Ltd. | SDE - 1 | React Native | RN-Web | Nx
+*Apr 2023 - Present*
 
-Project 2: Login Test Project
+### Tradebulls Securities Pvt. Ltd. | Software Developer | React Native
+*Dec 2020 - Mar 2023*
 
-Description: This is a simple SignUp and LogIn Project using Async Storage
+## Personal Projects
 
-Key Technologies Used:
+- **Login App Project**  
+  Developed a user-friendly login feature using React Native with seamless data persistence managed through Shared Preferences.
 
-React Native
-React Navigation
-React Redux
-Styled Components for styling
+- **File Upload and View App Project**  
+  Engineered a comprehensive solution in React Native for uploading various file formats, including PDFs and images. Implemented a robust viewing capability utilizing react-native-document-picker and react-native-image-crop-picker.
 
-How to Run:
+## Contact
 
-Clone the repository: https://github.com/arish-panjwani/LoginTestProject.git
-Navigate to the project directory: cd LoginTestProject
-Install dependencies: npm install
-Start the app: npx react-native run-android (for Android) or npx react-native run-ios (for iOS)
+- 💼 [LinkedIn](linkedin.com/in/arish-panjwani)
 
-Additional Information
-I have other repositories, some with R&D and some with WIP. Others might be old ones done as practice.
-
-Feel free to explore the codebase and provide feedback or suggestions.
-
-Contribution Guidelines
-If you'd like to contribute to any of the projects, please follow these steps:
-
-Fork the repository.
-Create a new branch: git checkout -b feature/your-feature.
-Make your changes and commit them: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature/your-feature.
-Submit a pull request.
+Feel free to explore my projects and get in touch! 😊
