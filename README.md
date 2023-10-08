@@ -4,8 +4,9 @@
 
 ## Education
 
-- **Bachelor of Engineering in Computers**
-- Savitribai Phule Pune University  
+**Bachelor of Engineering in Computers** 
+ 
+ (Savitribai Phule Pune University)
 
 ## Skills
 
