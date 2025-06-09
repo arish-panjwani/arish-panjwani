@@ -19,8 +19,7 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 ---
 
 ## 🌐 Socials
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://arishpanjwani.dev)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arish-panjwani)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arish-panjwani)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panjwaniarish@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%232ea44f?style=for-the-badge&logo=firefox&logoColor=white)](https://arishpanjwani.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arish-panjwani)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arish-panjwani)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panjwaniarish@gmail.com)
 
 ---
 
