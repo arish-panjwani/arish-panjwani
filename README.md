@@ -95,16 +95,41 @@ Simple mobile tool to generate and scan QR codes/barcodes for custom data.
 
 ## 📊 GitHub Stats
 
-![Arish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arish-panjwani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arish-panjwani&layout=compact&theme=radical)
+<p align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=arish-panjwani&show_icons=true&theme=radical" alt="Arish's GitHub Stats" style="display: inline-block; vertical-align: middle;" />
+  </span>
+  <span>
+    <img src="assets/backgroundless_image.png" alt="Profile Banner" style="background-color: red; width: 15%; display: inline-block; vertical-align: middle;" />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish-panjwani&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; vertical-align: middle;" />
+  </span>
+</p>
+
 
 ---
 
 ## 📈 Contributions & Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/arish-panjwani/arish-panjwani/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/arish-panjwani/arish-panjwani/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="110%" />
 
-[![GitHub Activity Graph (Last 30 Days)](https://github-readme-activity-graph.vercel.app/graph?username=arish-panjwani&theme=react-dark&days=30)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<!-- 📈 GitHub Activity Grid with Avatar (20-80 layout, borderless) -->
+<table style="border: none;">
+  <tr>
+    <td width="20%" align="center" style="border: none;">
+      <img src="assets/backgroundless_image2.png" alt="Profile Banner" width="100%" />
+    </td>
+    <td width="80%" style="border: none;">
+      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=arish-panjwani&theme=react-dark&days=30" alt="GitHub Activity Graph" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
