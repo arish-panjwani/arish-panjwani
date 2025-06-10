@@ -3,16 +3,30 @@
 
 Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience in **React Native and full-stack development**, now transitioning into the world of **Artificial Intelligence & Data Science**. I love solving real-world problems — whether through clean, intuitive mobile apps or data-powered web applications.
 
-🎓 **Postgraduate Diploma in Artificial Intelligence & Data Science**  
-*Loyalist College, Toronto (2024–2025)*
+<h2>🎓 Education · 💼 Experience</h2>
 
-🎓 **Bachelor of Engineering – Computer Science**  
-*Dr. D. Y. Patil SOET, Pune University*
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>🎓 Postgraduate Diploma (AI & DS)</strong><br>
+      Loyalist College, Toronto (2024–25)
+    </td>
+    <td width="37%" valign="top">
+      <strong>🎓 Bachelor of Engineering (Computers)</strong><br>
+      Dr. D. Y. Patil SOET, Pune University
+    </td>
+    <td width="30%" valign="top">
+      <strong>💼 Work Experience (SDE-1)</strong><br>
+      - Easy Platform Services (Zype)<br>
+      - Tradebulls Securities
+    </td>
+  </tr>
+</table>
 
-💼 Former Software Engineer at **Easy Platform Services (Zype)** and **Tradebulls Securities**
+<h2>🔍 Interests</h2>
 
-🔍 Interests:  
-`Deep Learning` · `Computer Vision` · `Edge AI` · `IoT Systems` · `Full-stack Dev`
+`Full-stack Dev` - `IoT Systems` - `Edge AI` - `NLP` - `Computer Vision` - `Deep Learning` - `Gen AI` - `MLOps`
+
 
 ---
 
@@ -45,51 +59,57 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 
 ## 🚀 Featured Projects
 
-### 🔬 [Cal-Snap – Calorie Detection & Health Tracker](https://github.com/arish-panjwani/cal-snap-react)  
-*React · CNN · Python · ML Model Deployment*  
-Built a web app to detect calories using image recognition and log workout data. Led a 20-member team and worked on both frontend and CNN-based classification.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔬 <a href="https://github.com/arish-panjwani/cal-snap-react">Cal-Snap – Calorie Detection & Health Tracker</a></strong><br>
+      <em>React · CNN · Python · ML Model Deployment</em><br>
+      Web app to detect calories from food images and log workouts. Led a 20-member team.
+    </td>
+    <td width="50%" valign="top">
+      <strong>💬 <a href="https://github.com/arish-panjwani/LANversation">LANversation – Encrypted LAN Chat App</a></strong><br>
+      <em>Flask · HTML/JS · CryptoJS · Netlify/Render</em><br>
+      Lightweight LAN chat with AES encryption & no-login group keys.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>📡 <a href="https://github.com/arish-panjwani/iot-sensor-dashboard">IoT Sensor Dashboard</a></strong><br>
+      <em>React · Chart.js · REST API</em><br>
+      Dashboard to visualize real-time and historical IoT sensor data.
+    </td>
+    <td width="50%" valign="top">
+      <strong>📱 <a href="https://github.com/arish-panjwani/Student_Helper">Student Helper App</a></strong><br>
+      <em>Android · SQLite</em><br>
+      GPA calculator, number system converter, and class schedule manager.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧪 <a href="https://github.com/arish-panjwani/GPA_Calculator_Testing">GPA Calculator (JUnit Tested)</a></strong><br>
+      <em>Java · JUnit · Eclipse</em><br>
+      CLI tool to calculate grades with full JUnit-based test coverage.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🔒 <a href="https://github.com/arish-panjwani/File_Upload_App">File Upload & View App</a></strong><br>
+      <em>React Native · Document Picker</em><br>
+      Upload and preview images and PDFs in a mobile interface.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔐 <a href="https://github.com/arish-panjwani/Login_App">Login App with Data Persistence</a></strong><br>
+      <em>React Native · Shared Preferences</em><br>
+      Secure login system using local storage for session management.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🔳 <a href="https://github.com/arish-panjwani/QR_and_Barcode_Generator">QR & Barcode Generator</a></strong><br>
+      <em>React Native · QRCode Generator</em><br>
+      Generate and scan QR/barcodes for custom content.
+    </td>
+  </tr>
+</table>
 
----
-
-### 💬 [LANversation – Encrypted LAN Chat App](https://github.com/arish-panjwani/LANversation)  
-*Flask · HTML/JS · CryptoJS · Netlify/Render*  
-Lightweight LAN chat with AES-based encryption and no-login group keys. Ideal for classrooms and internal networks.
-
----
-
-### 📡 [IoT Sensor Dashboard – Real-Time Data Visualization](https://github.com/arish-panjwani/iot-sensor-dashboard)  
-*React · Chart.js · REST API · Sensor Data*  
-Built an interactive dashboard to visualize accelerometer and gyroscope data from IoT devices using real-time and historical views.
-
----
-
-### 📱 [Student Helper](https://github.com/arish-panjwani/Student_Helper)  
-*Android · SQLite*  
-Utility Android app for students: GPA calculator, number system converter, timetable manager, and temp contact store.
-
----
-
-### 🧪 [GPA Calculator (JUnit Tested)](https://github.com/arish-panjwani/GPA_Calculator_Testing)  
-*Java · JUnit · Eclipse*  
-Grade/percentage calculator with unit-tested validation and CLI interface.
-
----
-
-### 🔒 [File Upload & View App](https://github.com/arish-panjwani/File_Upload_App)  
-*React Native · Document Picker*  
-Upload, preview, and manage files including images and PDFs using a clean mobile interface.
-
----
-
-### 🔐 [Login App with Data Persistence](https://github.com/arish-panjwani/Login_App)  
-*React Native · Shared Preferences*  
-Secure mobile login system using persistent storage for session continuity.
-
----
-
-### 🔳 [QR and Barcode Generator](https://github.com/arish-panjwani/QR_and_Barcode_Generator)  
-*React Native · QRCode Generator*  
-Simple mobile tool to generate and scan QR codes/barcodes for custom data.
 
 ---
 
