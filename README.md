@@ -1,8 +1,6 @@
 # 🧑‍💻 Arish Panjwani 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Calibri&weight=900&size=25&duration=10000&pause=1200&color=000000&width=1000&height=45&lines=Turning+Bugs+into+Features+and+Data+into+Insights+%F0%9F%98%8E;+From+Mobile+Apps+to+Machine+Learning+Mishaps...%F0%9F%AB%A3;Juggling+Code%2C+Coffee%2C+and+Data+%E2%9D%A4%EF%B8%8F;Full-Stack+Dev+Squeezed+into+a+Data+Scientist+%F0%9F%94%A5;Former+App+Guy+%F0%9F%93%B1%2C+Current+Data+Guy+%F0%9F%92%BF)](https://git.io/typing-svg)
 
-![Alt Text](https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif)
-
 Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience in **React Native and full-stack development**, now transitioning into the world of **Artificial Intelligence & Data Science**. I love solving real-world problems — whether through clean, intuitive mobile apps or data-powered web applications.
 
 🎓 **Postgraduate Diploma in Artificial Intelligence & Data Science**  
