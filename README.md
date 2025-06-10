@@ -97,13 +97,13 @@ Simple mobile tool to generate and scan QR codes/barcodes for custom data.
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=arish-panjwani&show_icons=true&theme=radical" alt="Arish's GitHub Stats" style="display: inline-block; vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arish-panjwani&show_icons=true&theme=radical" alt="Arish's GitHub Stats" style="display: inline-block; vertical-align: middle; width: 40%" />
   </span>
   <span>
-    <img src="assets/backgroundless_image.png" alt="Profile Banner" style="background-color: red; width: 12%; display: inline-block; vertical-align: middle;" />
+    <img src="assets/backgroundless_image.png" alt="Profile Banner" style="background-color: red; width: 10%; display: inline-block; vertical-align: middle;" />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish-panjwani&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; vertical-align: middle;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish-panjwani&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; vertical-align: middle;width: 30%" />
   </span>
 </p>
 
