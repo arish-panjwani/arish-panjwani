@@ -141,7 +141,7 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
     </td>
     <td width="80%" style="border: none;">
       <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=arish-panjwani&theme=react-dark&days=30" alt="GitHub Activity Graph" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=arish-panjwani&theme=react-dark&days=30&radius=15" alt="GitHub Activity Graph" width="100%" />
       </a>
     </td>
   </tr>
