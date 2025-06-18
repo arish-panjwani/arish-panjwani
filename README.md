@@ -154,10 +154,4 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 
 ---
 
-# 📬 Reach out to me anytime
-📧 panjwaniarish@gmail.com  
-🔗 [linkedin.com/in/arish-panjwani](https://www.linkedin.com/in/arish-panjwani)  
-
----
-
 # 🚀 Always Building... Always Learning... Always Evolving...
