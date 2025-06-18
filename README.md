@@ -117,15 +117,20 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=arish-panjwani&show_icons=true&theme=radical" alt="Arish's GitHub Stats" style="display: inline-block; vertical-align: middle; width: 45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arish-panjwani&show_icons=true&theme=radical" alt="Arish's GitHub Stats" style="display: inline-block; vertical-align: middle; width: 45%;" />
   </span>
   <span>
     <img src="assets/backgroundless_image.png" alt="Profile Banner" style="background-color: red; width: 13%; display: inline-block; vertical-align: middle;" />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish-panjwani&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; vertical-align: middle;width: 35%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arish-panjwani&layout=compact&theme=radical" alt="Top Languages" style="display: inline-block; vertical-align: middle; width: 35%;" />
   </span>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arish-panjwani&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="GitHub Streak Stats" style="width: 60%" />
+</p>
+
 
 ---
 
