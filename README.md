@@ -62,9 +62,9 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🔬 <a href="https://github.com/arish-panjwani/cal-snap-react">Cal-Snap – Calorie Detection & Health Tracker</a></strong><br>
-      <em>React · CNN · Python · ML Model Deployment</em><br>
-      Web app to detect calories from food images and log workouts. Led a 20-member team.
+      <strong>🛡️ <a href="https://github.com/arish-panjwani/model-deployment-dashboard">Model Deployment Dashboard</a></strong><br>
+      <em>Next.js · TypeScript · v0.dev</em><br>
+      ML API testing & monitoring dashboard with real-time analytics and theme support.
     </td>
     <td width="50%" valign="top">
       <strong>💬 <a href="https://github.com/arish-panjwani/LANversation">LANversation – Encrypted LAN Chat App</a></strong><br>
@@ -79,6 +79,30 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
       Dashboard to visualize real-time and historical IoT sensor data.
     </td>
     <td width="50%" valign="top">
+      <strong>📈 <a href="https://github.com/arish-panjwani/sales_prediction_api">Sales Prediction API</a></strong><br>
+      <em>Flask · Linear Regression · Docker · Fly.io</em><br>
+      API to predict sales from temperature & promotions. Deployed globally with Docker + Fly.io.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>💰 <a href="https://github.com/arish-panjwani/ai-personal-finance-tracker">AI Personal Finance Tracker</a></strong><br>
+      <em>Next.js · TypeScript · Tailwind CSS</em><br>
+      Budget tracker with JWT auth, analytics, and personalized advice. Mobile-first & Vercel deployed.
+    </td>
+    <td width="50%" valign="top">
+      <strong>📊 <a href="https://github.com/arish-panjwani/youtube-trending-analysis">YouTube Trends Analysis</a></strong><br>
+      <em>Python · Streamlit · EDA · Sentiment Analysis</em><br>
+      Streamlit dashboard with EDA, sentiment analysis, word clouds, and heatmaps for trending videos.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔬 <a href="https://github.com/arish-panjwani/cal-snap-react">Cal-Snap – Calorie Detection & Health Tracker</a></strong><br>
+      <em>React · CNN · Python · ML Model Deployment</em><br>
+      Web app to detect calories from food images and log workouts. Led a 20-member team.
+    </td>
+    <td width="50%" valign="top">
       <strong>📱 <a href="https://github.com/arish-panjwani/Student_Helper">Student Helper App</a></strong><br>
       <em>Android · SQLite</em><br>
       GPA calculator, number system converter, and class schedule manager.
@@ -91,16 +115,16 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
       CLI tool to calculate grades with full JUnit-based test coverage.
     </td>
     <td width="50%" valign="top">
-      <strong>🔒 <a href="https://github.com/arish-panjwani/File_Upload_App">File Upload & View App</a></strong><br>
-      <em>React Native · Document Picker</em><br>
-      Upload and preview images and PDFs in a mobile interface.
+      <strong>🔐 <a href="https://github.com/arish-panjwani/Login_App">Login App with Data Persistence</a></strong><br>
+      <em>React Native · Shared Preferences</em><br>
+      Secure login system using local storage for session management.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>🔐 <a href="https://github.com/arish-panjwani/Login_App">Login App with Data Persistence</a></strong><br>
-      <em>React Native · Shared Preferences</em><br>
-      Secure login system using local storage for session management.
+      <strong>🔒 <a href="https://github.com/arish-panjwani/File_Upload_App">File Upload & View App</a></strong><br>
+      <em>React Native · Document Picker</em><br>
+      Upload and preview images and PDFs in a mobile interface.
     </td>
     <td width="50%" valign="top">
       <strong>🔳 <a href="https://github.com/arish-panjwani/QR_and_Barcode_Generator">QR & Barcode Generator</a></strong><br>
@@ -109,7 +133,6 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
     </td>
   </tr>
 </table>
-
 
 ---
 
