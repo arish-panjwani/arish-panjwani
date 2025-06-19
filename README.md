@@ -115,20 +115,20 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
       CLI tool to calculate grades with full JUnit-based test coverage.
     </td>
     <td width="50%" valign="top">
-      <strong>🔐 <a href="https://github.com/arish-panjwani/Login_App">Login App with Data Persistence</a></strong><br>
+      <strong>🔐 <a href="https://github.com/arish-panjwani/LoginTestProject">Login App with Data Persistence</a></strong><br>
       <em>React Native · Shared Preferences</em><br>
       Secure login system using local storage for session management.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>🔒 <a href="https://github.com/arish-panjwani/File_Upload_App">File Upload & View App</a></strong><br>
+      <strong>🔒 <a href="https://github.com/arish-panjwani/FilesUploadProject">File Upload & View App</a></strong><br>
       <em>React Native · Document Picker</em><br>
       Upload and preview images and PDFs in a mobile interface.
     </td>
     <td width="50%" valign="top">
       <strong>🔳 <a href="https://github.com/arish-panjwani/QR_and_Barcode_Generator">QR & Barcode Generator</a></strong><br>
-      <em>React Native · QRCode Generator</em><br>
+      <em>Android · Java · QRCode Generator</em><br>
       Generate and scan QR/barcodes for custom content.
     </td>
   </tr>
