@@ -3,25 +3,20 @@
 
 Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience in **React Native and full-stack development**, now transitioning into the world of **Artificial Intelligence & Data Science**. I love solving real-world problems — whether through clean, intuitive mobile apps or data-powered web applications.
 
-<h2>🎓 Education · 💼 Experience</h2>
+## 🎓 Education
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>🎓 Postgraduate Diploma (AI & DS)</strong><br>
-      Loyalist College, Toronto (2024–25)
-    </td>
-    <td width="37%" valign="top">
-      <strong>🎓 Bachelor of Engineering (Computers)</strong><br>
-      Dr. D. Y. Patil SOET, Pune University
-    </td>
-    <td width="30%" valign="top">
-      <strong>💼 Work Experience (SDE-1)</strong><br>
-      - Easy Platform Services (Zype)<br>
-      - Tradebulls Securities
-    </td>
-  </tr>
-</table>
+| Degree / Program                 | Institution                      | Location           | Years     |
+|-----------------------------------|-----------------------------------|-------------------|----------|
+| AI & Data Science (Postgrad Dip.) | Loyalist College                  | Toronto, Canada    | 2024–2025 |
+| Computer Engineering (B.E.)       | Dr. D. Y. Patil SOET, Pune University   | Pune, India       | 2015–2020 |
+
+## 💼 Experience
+
+| Role  | Company                    | Domain                                | Location        | Duration        |
+|--------|----------------------------|---------------------------------------|----------------|----------------|
+| Software Developer | Tradebulls Securities       | Stock Market, Trading, Investment     | Mumbai, India   | 2 years 3 months |
+| SDE-1 | Easy Platform Services (Zype) | NBFC, Personal Loan App               | Mumbai, India   | 1 year          |
+
 
 <h2>🔍 Interests</h2>
 
@@ -37,23 +32,56 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="65%">
+      <h3>🤖 Data Science / ML / CV</h3>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="35%">
+      <h3>📊 Data Viz / BI</h3>
+           <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="65%">
+      <h3>🚀 Programming Languages</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="35%">
+      <h3>⚛️ Frontend / Mobile</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="65%">
+      <h3>🖥️ Backend / Database</h3>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="35%">
+      <h3>🛠️ Tools / DevOps</h3>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -151,7 +179,7 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arish-panjwani&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="GitHub Streak Stats" style="width: 60%" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arish-panjwani&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -176,4 +204,9 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 
 ---
 
-# 🚀 Always Building... Always Learning... Always Evolving...
+# 🚀 **Debugging Life One Line at a Time**  
+**Code — Build — Break — Fix — Repeat**  
+And occasionally... **sleep**.....*Just kidding — no sleep* 😎
+
+
+
