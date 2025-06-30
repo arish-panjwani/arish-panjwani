@@ -191,7 +191,7 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 </p>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arish-panjwani&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arish-panjwani&hide_border=true" alt="" /></a>
 </div>
 
 ---
