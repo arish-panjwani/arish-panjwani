@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="10" y="28" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#00FF00" filter="url(#glow)">
+    ✨ Portfolio -> arishpanjwani.dev ✨
+    <tspan fill="#FFFFFF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+      (click here)
+    </tspan>
+  </text>
+</svg>
