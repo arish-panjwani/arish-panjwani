@@ -3,6 +3,8 @@
 
 Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience in **React Native and full-stack development**, now transitioning into the world of **Artificial Intelligence & Data Science**. I love solving real-world problems — whether through clean, intuitive mobile apps or data-powered web applications.
 
+[![Portfolio Glow](assets/portfolio-glow.svg)](https://arishpanjwani.dev)
+
 ## 🎓 Education
 
 | Degree / Program                 | Institution                      | Location           | Years     |
@@ -20,7 +22,7 @@ Hi, I'm **Arish Panjwani**, a developer with 3+ years of professional experience
 
 <h2>🔍 Interests</h2>
 
-`Full-stack Dev` - `IoT Systems` - `Edge AI` - `NLP` - `Computer Vision` - `Deep Learning` - `Gen AI` - `MLOps`
+`Full-stack Dev` - `IoT Systems` - `Edge AI` - `NLP` - `Computer Vision` - `Deep Learning` - `Gen AI` - `MLOps` - `Agentic AI`
 
 ---
 
